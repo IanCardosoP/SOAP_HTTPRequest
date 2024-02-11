@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    padding-top: 50px;
+    font-family: Tahoma, sans-serif;
+    color: #333;
+    background-color: #fff;
+    width: 60vw;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+hr {
+    border: 1px solid #292929;
+    margin: 20px 0;
+}
+
+h3 {
+    font-family: Tahoma, sans-serif;
+    color: #333;
+    background-color: #f8f8f8;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    text-align: center;
+}
+
+
+button {
+    background-color: #333;
+    color: beige;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 20px; /* Ajusta el margen superior según sea necesario */
+}
+
+button:hover {
+    background-color: #b8860b; /* Dark goldenrod */
+}
+
+
